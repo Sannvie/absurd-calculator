@@ -1,1 +1,1 @@
-live at https://github.com/Sannvie/absurd-calculator/
+live at https://sannvie.github.io/absurd-calculator/

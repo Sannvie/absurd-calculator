@@ -2,7 +2,7 @@
   "name": "absurd-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sannvie.github.io/absurd-calculator",
+  "homepage": "https://sannvie.github.io/absurd-calculator",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

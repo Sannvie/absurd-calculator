@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/absurd-calculator/static/css/main.daff7164.css",
+    "main.js": "/absurd-calculator/static/js/main.a352cdbe.js",
+    "static/js/453.b8045198.chunk.js": "/absurd-calculator/static/js/453.b8045198.chunk.js",
+    "index.html": "/absurd-calculator/index.html",
+    "main.daff7164.css.map": "/absurd-calculator/static/css/main.daff7164.css.map",
+    "main.a352cdbe.js.map": "/absurd-calculator/static/js/main.a352cdbe.js.map",
+    "453.b8045198.chunk.js.map": "/absurd-calculator/static/js/453.b8045198.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daff7164.css",
+    "static/js/main.a352cdbe.js"
+  ]
+}

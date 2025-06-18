@@ -8,11 +8,9 @@ const Calculator = () => {
   const [isNewInput, setIsNewInput] = useState(true);
   const [history, setHistory] = useState([]);
   const [theme, setTheme] = useState('dark');
-  const [loaded, setLoaded] = useState(false); // New state for load transition
-
+  const [loaded, setLoaded] = useState(false);
   useEffect(() => {
-    // Trigger load transition after component mounts
-    setTimeout(() => setLoaded(true), 100); // Slight delay for smoother effect
+    setTimeout(() => setLoaded(true), 100); 
   }, []);
 
   const getRandomResult = useCallback((num1, num2, op) => {
